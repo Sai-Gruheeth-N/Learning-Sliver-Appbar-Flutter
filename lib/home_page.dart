@@ -23,7 +23,7 @@ class HomePage extends StatelessWidget {
             pinned: true,
             flexibleSpace: FlexibleSpaceBar(
               background: Container(
-                color: Colors.deepPurple.shade900,
+                color: Colors.deepPurple.shade700,
               ),
               centerTitle: true,
               title: const Text('S L I V E R A P P B A R'),
